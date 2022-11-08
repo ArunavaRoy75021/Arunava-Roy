@@ -1,0 +1,13 @@
+ARUNAVA ROY 
+
+Employee Management Project (E.M.S) built in DJango web framework is a web-application which is used 
+for real-time managemnt of all the employees present in an organization,an (E.M.S) is essential for monitoring 
+the workflow, managing all the details of an employee and assessing the performance of an employee.
+
+CONTRIBUTIONS :-
+
+1) Critical thinker for overall implementation, integration and designing(few pages like manage page) of the web application.
+2) Looked-into the frontend parts of the application(namely the login-page,sign-up,Appraisals etc.).
+3) Contributed to the design concept of the "Manage all" page.
+4) Made comments to for better understanding of the code and to promote clean coding.
+5) And few miscellaneous contibutions like integrating the decorators like (@staff_member_required etc.)
